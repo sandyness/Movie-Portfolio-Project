@@ -1,1 +1,0 @@
-# Glass door scraping
